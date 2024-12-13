@@ -1,0 +1,9 @@
+{
+  "version": "4.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../Projeto-Relatorio-interativo-DIO.SemanticModel"
+    },
+    "byConnection": null
+  }
+}

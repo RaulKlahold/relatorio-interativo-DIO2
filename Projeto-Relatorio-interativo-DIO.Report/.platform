@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Projeto-Relatorio-interativo-DIO"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "5903fecf-bd56-4792-aaf6-cf763e83ad1e"
+  }
+}
